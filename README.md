@@ -8,7 +8,7 @@ Client, opt. server: https://img.shields.io/badge/environment-client,%20opt%20se
 
 ![client only](https://img.shields.io/badge/environment-client,%20opt%20server-0d75a5)
 
-Server only: https://img.shields.io/badge/environment-client%20only-1aa8ec
+Server only: https://img.shields.io/badge/environment-server%20only-e61a1a
 
 ![server only](https://img.shields.io/badge/environment-server%20only-e61a1a)
 
