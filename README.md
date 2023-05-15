@@ -22,14 +22,26 @@ Server and client: https://img.shields.io/badge/environment-client%20and%20serve
 
 ## Modloader
 
-Fabric: https://img.shields.io/badge/modloader-fabric-dbd0b4
+All: https://img.shields.io/badge/modloader-all-eeeeee
 
-![fabric](https://img.shields.io/badge/modloader-fabric-dbd0b4)
+![all](https://img.shields.io/badge/modloader-all-eeeeee)
 
-Forge: https://img.shields.io/badge/modloader-forge-455467
+Fabric and Quilt: https://img.shields.io/badge/modloader-fabric%20&%20quilt-a8648b
 
-![forge](https://img.shields.io/badge/modloader-forge-455467)
+![fabric and quilt](https://img.shields.io/badge/modloader-fabric%20&%20quilt-a8648b)
 
-Quilt: https://img.shields.io/badge/modloader-quilt-57496b
+Fabric and Forge: https://img.shields.io/badge/modloader-fabric%20&%20forge-cb6041
 
-![quilt](https://img.shields.io/badge/modloader-quilt-57496b)
+![fabric and forge](https://img.shields.io/badge/modloader-fabric%20&%20forge-cb6041)
+
+Fabric only: https://img.shields.io/badge/modloader-fabric-dbd0b4
+
+![fabric only](https://img.shields.io/badge/modloader-fabric-dbd0b4)
+
+Forge only: https://img.shields.io/badge/modloader-forge-455467
+
+![forge only](https://img.shields.io/badge/modloader-forge-455467)
+
+Quilt only: https://img.shields.io/badge/modloader-quilt-57496b
+
+![quilt only](https://img.shields.io/badge/modloader-quilt-57496b)
