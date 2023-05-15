@@ -45,3 +45,17 @@ Forge only: https://img.shields.io/badge/modloader-forge-455467
 Quilt only: https://img.shields.io/badge/modloader-quilt-57496b
 
 ![quilt only](https://img.shields.io/badge/modloader-quilt-57496b)
+
+## Project Type
+
+Datapack only: https://img.shields.io/badge/project%20type-datapack-52d52a
+
+![datapack only](https://img.shields.io/badge/project%20type-datapack-52d52a)
+
+Datapack and mod: https://img.shields.io/badge/project%20type-datapack%20&%20mod-39951d
+
+![datapack and mod](https://img.shields.io/badge/project%20type-datapack%20&%20mod-39951d)
+
+Mod only: https://img.shields.io/badge/project%20type-mod-224b1b
+
+![mod only](https://img.shields.io/badge/project%20type-mod-224b1b)
